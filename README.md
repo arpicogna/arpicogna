@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arpicogna
-- 👀 I’m interested in DIY project
-- 🌱 I’m currently learning home assistant, Jeedom, ESP32, Arduino
-- 💞️ I’m looking to collaborate on DIY project
+- 👋 Hi, I’m @arpicogna, I am French and I live in Lunéville in eastern France
+- 👀 I am interested in DIY projects
+- 🌱 I’m currently learning home assistant, Jeedom, ESP32, Arduino, electronics, electricity
+- 💞️ I can possibly collaborate on projects
 - 📫 How to reach me : apicogna@laposte.net
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
